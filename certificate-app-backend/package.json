@@ -51,6 +51,6 @@
     "@types/uuid": "^3.4.4",
     "ts-node-dev": "^1.0.0-pre.43",
     "tsc-watch": "3.0.1",
-    "tsconfig-paths": "3.9.0"
+    "tsconfig-paths": "3.10.1"
   }
 }
